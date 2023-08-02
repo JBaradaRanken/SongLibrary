@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab02Console_JohnBarada3/1.0.0": {
+        "dependencies": {
+          "EmployeeLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "Lab02Console_JohnBarada3.dll": {}
+        }
+      },
+      "EmployeeLibrary1/1.0.0": {
+        "runtime": {
+          "EmployeeLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab02Console_JohnBarada3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
