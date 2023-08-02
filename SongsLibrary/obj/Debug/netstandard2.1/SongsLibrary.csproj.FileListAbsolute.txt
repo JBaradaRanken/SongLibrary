@@ -1,0 +1,10 @@
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\bin\Debug\netstandard2.1\SongsLibrary.deps.json
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\bin\Debug\netstandard2.1\SongsLibrary.dll
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\bin\Debug\netstandard2.1\SongsLibrary.pdb
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.AssemblyInfoInputs.cache
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.AssemblyInfo.cs
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.dll
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\SongsLibrary\obj\Debug\netstandard2.1\SongsLibrary.pdb

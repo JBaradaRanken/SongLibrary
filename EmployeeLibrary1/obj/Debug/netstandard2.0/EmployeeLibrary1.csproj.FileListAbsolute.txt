@@ -1,0 +1,10 @@
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\bin\Debug\netstandard2.0\EmployeeLibrary1.deps.json
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\bin\Debug\netstandard2.0\EmployeeLibrary1.dll
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\bin\Debug\netstandard2.0\EmployeeLibrary1.pdb
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.AssemblyInfoInputs.cache
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.AssemblyInfo.cs
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.dll
+C:\Users\13146\Desktop\MASTER HW\ExtraExercises\ExtraStarts\ch16\InventoryMaintenanceLib\Lab01Console_JohnBarada\EmployeeLibrary1\obj\Debug\netstandard2.0\EmployeeLibrary1.pdb

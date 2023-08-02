@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAJY//SNkQTDjr0i4HgZ0qOh9MVV/9oleiT+IRjpf5H/0DzYQIju5QOnlLHtftTeh2VdgVZi/H66rpSD3kML9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13146\\Desktop\\MASTER HW\\ExtraExercises\\ExtraStarts\\ch16\\InventoryMaintenanceLib\\Lab01Console_JohnBarada\\EmployeeLibrary1\\EmployeeLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13146\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\13146\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
