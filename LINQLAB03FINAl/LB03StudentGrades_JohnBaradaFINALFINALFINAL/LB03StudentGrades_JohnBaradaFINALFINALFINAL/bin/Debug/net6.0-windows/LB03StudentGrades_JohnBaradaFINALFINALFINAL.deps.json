@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LB03StudentGrades_JohnBaradaFINALFINALFINAL/1.0.0": {
+        "dependencies": {
+          "StudentGrades": "1.0.0"
+        },
+        "runtime": {
+          "LB03StudentGrades_JohnBaradaFINALFINALFINAL.dll": {}
+        }
+      },
+      "StudentGrades/1.0.0": {
+        "runtime": {
+          "StudentGrades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB03StudentGrades_JohnBaradaFINALFINALFINAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentGrades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

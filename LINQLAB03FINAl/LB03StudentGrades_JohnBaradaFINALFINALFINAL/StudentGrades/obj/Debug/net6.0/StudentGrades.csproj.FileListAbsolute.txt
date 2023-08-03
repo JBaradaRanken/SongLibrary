@@ -1,0 +1,12 @@
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\bin\Debug\net6.0\StudentGrades.deps.json
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\bin\Debug\net6.0\StudentGrades.dll
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\bin\Debug\net6.0\StudentGrades.pdb
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.AssemblyInfo.cs
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.dll
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\refint\StudentGrades.dll
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\StudentGrades.pdb
+C:\Users\13146\Desktop\LINQLAB03FINAl\LB03StudentGrades_JohnBaradaFINALFINALFINAL\StudentGrades\obj\Debug\net6.0\ref\StudentGrades.dll
